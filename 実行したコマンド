@@ -63,4 +63,5 @@ Total 6 (delta 0), reused 0 (delta 0), pack-reused 0 (from 0)
 To https://github.com/yamagen0829/github-basic-kadai.git
  * [new branch]      main -> main
 branch 'main' set up to track 'origin/main'.
-yamamotogen@yamamotomotonoMacBook-Air git_challenge % 
+yamamotogen@yamamotomotonoMacBook-Air git_challenge % git merge origin/main
+Already up to date.
